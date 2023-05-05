@@ -57,10 +57,10 @@ After checking all unique values from each column, I find out:
 - Let's see data type of all columns:<br></br>
 !["@"](images/check-data-type/data-type.png)
 - We only need to solve `Installs`, `Size`, `Price`, `Last Updated`. Here is my result:<br></br>
-!"@"](images/check-data-type/result.png)
+!["@"](images/check-data-type/result.png)
 
 ##  5. Check data validation <a name="validation"></a>
-With the basic rule we know such as: `Rating` must be in [0-5] and `Reviews`, `Size`, `Installs` must be `positive number`. Here is my progress:
+With the basic rule we know such as: `Rating` must be in `[0-5]` and `Reviews`, `Size`, `Installs` must be `positive number`. Here is my progress:
 
 !["@"](images/check-data-validation/result.png)
 
@@ -86,7 +86,7 @@ Becasue this is a `numerical` data and it takes `12.7%` of total rows. If we dro
 !["@"](images/check-null-value/size-distribution.png)<br></br>
 It's clear that the Size is `Positive skew` / `right-skewed` -> we will `replace` null value in Size column with its `median` 
 
-- For Rating:<br></br>
+- For `Rating`:<br></br>
 !["@"](images/check-null-value/rating.png)<br></br>
 Becasue this is a `numerical` data and it takes `15%` of total rows. If we drop them, it may `impact` the `data quality`. So we will replace . We need to check `data distribution`:<br></br>
 !["@"](images/check-null-value/rating-distribution.png)<br></br>
