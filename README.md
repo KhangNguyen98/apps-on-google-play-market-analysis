@@ -1,4 +1,4 @@
-<p style="text-align: center; font-size: 20px "><b>App Market Analysis</b></p>
+# App Market Analysis
 
 # Table of contents
 1. [Introcduction](#introduction)
