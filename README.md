@@ -1,5 +1,4 @@
-# App Market Analysis
-
+<p style="text-align: center; font-size: 20px "><b>App Market Analysis</b></p>
 # Table of contents
 1. [Introcduction](#introduction)
 2. [Understand data](#understand)
@@ -107,11 +106,17 @@ And this is my key findings:
 - The answer for the first question:<br></br>
 !["@"](images/problem-statement/1/maximum-potential-user.png)<br></br>
 - The answer for the second question:<br></br>
-!["@"](images/problem-statement/1/maximum-capacity.png)
+!["@"](images/problem-statement/1/maximum-capacity.png)<br></br>
+- Here is my key findings:<br></br>
+!["@"](images/problem-statement/1/key-findings.png)<br></br>
 
 **Question 2:** Ratio of Free Apps vs Paid Apps ?
 
-!["@"](images/problem-statement/2/ratio.png)
+!["@"](images/problem-statement/2/ratio.png)<br></br>
+- Dive deeper. We have max potential users by free and paid app:
+!["@"](images/problem-statement/2/max-potential-users.png)<br></br>
+- Here is my key findings:<br></br>
+!["@"](images/problem-statement/2/key-findings.png)<br></br>
 
 **Question 3:** How user consider "Affordable App" ?<br></br>
 !["@"](images/problem-statement/3/affordable-price.png)<br></br>
@@ -129,4 +134,14 @@ And this is my key findings:
 !["@"](images/problem-statement/5/rating-installs.png)
 - Here is my key findings:
 
-!["@"](images/problem-statement/5/key-findings.png)
+!["@"](images/problem-statement/5/key-findings.png)<br></br>
+
+**Question 6:**  If we target Everyone 10+ with Paid App, which are formidable competitors ?
+
+- We just need to find category in top 5 categories with target user is Everyone 10+ plus paid type, this is my result:<br></br>
+!["@"](images/problem-statement/6/competitors.png)<br></br>
+- Here is my key findings:
+!["@"](images/problem-statement/6/key-findings.png)<br></br>
+
+
+
