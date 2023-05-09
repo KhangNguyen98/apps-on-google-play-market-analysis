@@ -11,8 +11,8 @@
 8. [Problem statment](#problem)
 
 ## 1. Introduction <a name="introduction"></a>
-People nowadays own a smartphone. That leads we to believe that app market has a numerous potential to invest. And Playstore
-is a wonderful resource to gain more insights about that market. 
+People nowadays own a smartphone. That leads us to believe that app market has numerous potential to invest. And Play Store
+is one of two wonderful resources to gain more insights from that market. 
 !["@"](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)
 
 ##  2. Understand data <a name="understand"></a>
